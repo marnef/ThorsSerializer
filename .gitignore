@@ -4,6 +4,8 @@
 .*.swp
 *.gcov
 
+.claude
+
 unittest
 coverage/
 debug/
