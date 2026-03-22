@@ -5,6 +5,7 @@
 *.gcov
 
 .claude
+.clangd
 
 unittest
 coverage/
