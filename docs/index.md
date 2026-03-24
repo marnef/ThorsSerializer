@@ -44,9 +44,6 @@ The main goal of these libraries is to remove the need to write boilerplate code
 10. **[ThorsLogging](ThorsLogging.html)** | [Internal Documentation](internal/ThorsLogging.html)
     Leveled logging macros with optional exception throwing. Wraps loguru for full builds or falls back to `std::cerr` in header-only mode.
 
-11. **[ThorsIOUtil](ThorsIOUtil.html)** | [Internal Documentation](internal/ThorsIOUtil.html)
-    Type-safe `printf`-style formatting through `std::ostream`. Validates format specifiers against C++ argument types at runtime.
-
 ---
 
 ## Installation

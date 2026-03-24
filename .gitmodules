@@ -16,9 +16,6 @@
 [submodule "third/ThorsLogging"]
 	path = third/ThorsLogging
 	url = ../../Loki-Astari/ThorsLogging.git
-[submodule "third/ThorsIOUtil"]
-	path = third/ThorsIOUtil
-	url = ../../Loki-Astari/ThorsIOUtil.git
 [submodule "third/ThorsSerializer"]
 	path = third/ThorsSerializer
 	url = ../../Loki-Astari/ThorsSerializer

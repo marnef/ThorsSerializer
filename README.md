@@ -36,7 +36,6 @@ This project provides the following libraries:
 1. [ThorsCrypto](https://github.com/Loki-Astari/ThorsCrypto)  
    C++ wrapper around platform-specific libraries to support **base64 Encoding**, **CRC Checksum**, **Hashing**, **HMAC**, **SCRAM**, **MD5**, **SHA-1**, **SHA-256**.
 
-1. [ThorsIOUtil](https://github.com/Loki-Astari/ThorsIOUtil)
 1. [ThorsLogging](https://github.com/Loki-Astari/ThorsLogging)
 
 
