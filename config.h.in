@@ -118,6 +118,9 @@
    */
 #undef THOR_DISABLE_TEST_WITH_MONGO_QUERY
 
+/* Disable integration tests */
+#undef THOR_DISABLE_TEST_WITH_PORT80
+
 /* mongosh DB for testing */
 #undef THOR_TESTING_MONGO_DB
 
